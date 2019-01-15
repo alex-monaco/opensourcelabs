@@ -6,4 +6,4 @@ github account: alex-monaco
 
 mattermost handle: alex-monaco
 
-[alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/IMG_1925.jpg)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/IMG_1925.jpg)
