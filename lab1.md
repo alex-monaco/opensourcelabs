@@ -17,7 +17,7 @@ Reading assignments
 
 Linux
 
-	insert screenshot
+	![alt text](https://github.com/alex-monaco/opensourcelabs/Lab1/Screenshots/Screen Shot 2019-01-17 at 1.19.32 PM.png)
 
 Regex
 
