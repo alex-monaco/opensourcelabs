@@ -11,7 +11,7 @@ Part 1
 Part 2
 	https://github.com/alex-monaco/Spoon-Knife
 	
-	![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/gitbranchtutorial.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/gitbranchtutorial.png)
   
 Part 3
 	https://github.com/alex-monaco/PullReq
