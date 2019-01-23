@@ -17,19 +17,24 @@ Reading assignments
 
 Linux
 
-	![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab1/Screenshots/Screen Shot 2019-01-17 at 1.19.32 PM.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab1/ScreenShots/tree.png)
+
+      
 
 Regex
 
 	1. NA
 	
-	2. insert screenshot
+	2. 
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab1/ScreenShots/regex2.png)
 	
-	3. insert screenshot
+	3. 
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab1/ScreenShots/tutorial.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab1/ScreenShots/beginner.png)
 
 Play with Snap or CSDT or Blockly
 
-	insert screenshot
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab1/ScreenShots/blockly.png)
 
 Reflection
 
