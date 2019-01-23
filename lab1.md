@@ -14,8 +14,11 @@ Linux
 	insert screenshot
 
 Regex
-	1.
+
+	1. NA
+	
 	2. insert screenshot
+	
 	3. insert screenshot
 
 Play with Snap or CSDT or Blockly
