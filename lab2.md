@@ -3,12 +3,15 @@ Alex Monaco
 
 Part 1
 
-Insert screenshot of gitk
-insert other screenshot
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/ScreenShots/gitk.png)
+
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/ScreenShots/gitlog.png)
+
   
 Part 2
 	https://github.com/alex-monaco/Spoon-Knife
-	insert screenshot of levels
+	
+	![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/ScreenShots/gitbranchtutorial.png)
   
 Part 3
 	https://github.com/alex-monaco/PullReq
