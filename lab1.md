@@ -14,7 +14,7 @@ Linux
 	insert screenshot
 
 Regex
-	1. NA
+	1.
 	2. insert screenshot
 	3. insert screenshot
 
