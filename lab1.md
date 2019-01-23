@@ -17,7 +17,7 @@ Reading assignments
 
 Linux
 
-	![alt text](https://github.com/alex-monaco/opensourcelabs/Lab1/Screenshots/Screen Shot 2019-01-17 at 1.19.32 PM.png)
+	![alt text](https://github.com/alex-monaco/opensourcelabs/blob/masterLab1/Screenshots/Screen Shot 2019-01-17 at 1.19.32 PM.png)
 
 Regex
 
