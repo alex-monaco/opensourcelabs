@@ -3,15 +3,15 @@ Alex Monaco
 
 Part 1
 
-![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/ScreenShots/gitk.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/gitk.png)
 
-![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/ScreenShots/gitlog.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/gitlog.png)
 
   
 Part 2
 	https://github.com/alex-monaco/Spoon-Knife
 	
-	![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/ScreenShots/gitbranchtutorial.png)
+	![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab2/gitbranchtutorial.png)
   
 Part 3
 	https://github.com/alex-monaco/PullReq
