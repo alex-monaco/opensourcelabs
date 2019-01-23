@@ -3,7 +3,7 @@ Lab1
 
 Reading assignments
 	
-1. NA
+	1. NA
 
 2. Be as clear as possible on how the answer is applicable and how it works. Dont stray from the topic and confuse the person.
 
