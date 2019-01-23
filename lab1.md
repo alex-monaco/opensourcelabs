@@ -1,5 +1,5 @@
-# Alex Monaco
-# Lab1
+# Lab1 1/22/19
+Alex Monaco
 
 Reading assignments
 	
