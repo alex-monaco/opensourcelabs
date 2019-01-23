@@ -17,7 +17,9 @@ Reading assignments
 
 Linux
 
-	![alt text](https://github.com/alex-monaco/opensourcelabs/Lab1/ScreenShots/tree.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/Lab1/ScreenShots/tree.png)
+
+      
 
 Regex
 
