@@ -19,7 +19,7 @@ Part 1:
     - homepageReboot
     - master
     - notifications_dismiss
-  - gitstats: 
+  - gitstats: ![](https://imgur.com/a/IJd7kiH)
   - gource: [Video](https://youtu.be/izGpI9g0Phs)
 
 ### B7
