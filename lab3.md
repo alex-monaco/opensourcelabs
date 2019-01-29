@@ -20,7 +20,7 @@ Part 1:
     - master
     - notifications_dismiss
   - gatestats: 
-  - gource: 
+  - gource: [Video](https://youtu.be/izGpI9g0Phs)
 
 ### B7
   - Contributors: 2
