@@ -24,3 +24,16 @@ Branches:
 	homepageReboot
 	master
 	notifications_dismiss
+
+### B7
+  - Contributors: 2
+  - Lines of code: 2266
+  - First commit: 56 days ago
+  - Latest commit: 4 days ago
+  - Current branches:
+    - master
+    - TravisTesting
+    - refactor/split-lib
+    - platforms
+  - gitstats: ![](https://i.imgur.com/xUmGx5o.png)
+  - gource: [Video](https://youtu.be/Ji4j9MyQL6s)
