@@ -1,11 +1,11 @@
 # Lab 3
 Alexander Monaco
 
-Part 0:
+## Part 0:
 
   Insert two screenshots from latex
 
-Part 1:
+## Part 1:
 
 ### Late
   - Contributors: 9
@@ -34,3 +34,5 @@ Part 1:
     - platforms
   - gitstats: ![](https://i.imgur.com/xUmGx5o.png)
   - gource: [Video](https://youtu.be/Ji4j9MyQL6s)
+
+## Part 2:
