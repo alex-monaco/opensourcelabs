@@ -4,7 +4,10 @@ Alexander Monaco
 
 ## Part 0:
 
-  Insert two screenshots from latex
+
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/latex1.png)
+
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/latex2.png)
 
 ## Part 1:
 
@@ -42,4 +45,4 @@ Alexander Monaco
 
 - Test code: https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/test_markdown_unittest.py
 
-insert results screenshot
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/results.png)
