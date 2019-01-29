@@ -2,7 +2,8 @@
 Alexander Monaco
 
 Part 0:
-Insert two screenshots from latex
+
+  Insert two screenshots from latex
 
 Part 1:
 
