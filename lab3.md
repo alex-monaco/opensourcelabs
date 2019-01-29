@@ -39,6 +39,17 @@ Alexander Monaco
   - gitstats: ![](https://i.imgur.com/xUmGx5o.png)
   - gource: [Video](https://youtu.be/Ji4j9MyQL6s)
 
+### Catan-AI
+  - Contributors: 4
+  - Lines of code: 1305
+  - First commit: 15 days ago (Jan 14, 2019)
+  - Latest commit: 3 days ago (Jan 26, 2019)
+  - Current branches:
+    - master
+    - add-license-1
+  - gitstats: https://gyazo.com/434ee88b0822be7e3b9ac1d01b92f6b6
+  - gource:
+
 ## Part 2:
 
 - Code: https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/markdown.py
