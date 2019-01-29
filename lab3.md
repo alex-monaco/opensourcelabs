@@ -37,5 +37,6 @@ Alexander Monaco
 
 ## Part 2:
 
-Code: https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/markdown.py
-Test code: https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/test_markdown_unittest.py
+- Code: https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/markdown.py
+
+- Test code: https://github.com/alex-monaco/opensourcelabs/blob/master/Lab3/test_markdown_unittest.py
