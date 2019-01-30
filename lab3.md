@@ -49,6 +49,17 @@ Alexander Monaco
     - add-license-1
   - gitstats: https://gyazo.com/434ee88b0822be7e3b9ac1d01b92f6b6
   - gource:
+  
+### Agency
+
+  - Number of contributors: 1
+  - Number of lines of code: 675
+  - The first commit: Initial commit, README.md and Licence
+  - The last commit: same as above
+  - Current Branches: master
+  - gitstats: https://imgur.com/a/6iA9IQ4
+  - The output file matches the info found on the github page
+  - gource: https://youtu.be/EwyLF2Ger3U
 
 ## Part 2:
 
