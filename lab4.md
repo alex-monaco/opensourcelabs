@@ -33,6 +33,13 @@ The Apache license is best for a developer. This is because it uses a warranty o
 https://github.com/alex-monaco/lab4-licenserepo
 
 ## Write five sentences about choosing a project to work on in this course, who will be users/customers of such a project, and what license you would choose.
+The project I will work on in this course will be an open course NPM package for programming Uniden brand RF scanners via serial protocols. I believe the users will be other developers since it will be a package to assist in writing software to interface with the scanners while allowing them to not understand the serial protocol underneath. This is extrememly helpful to developers because as you know we are lazy we want the simplest and most efficient method to creat what we want. I believe this will proivde that for the serial scanners. My team would like to use and MIT license.
 
 
-A project I would like to pursue for this course is an open source NPM package for programming Uniden brand RF scanners via serial protocols. The users of this package would be other developers. They would be able to use the package to write software to interface with the scanners. The software would allow them to focus on the interface itself rather than the serial protocol underneath. We will likely use the MIT License.
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/kaijianz/alvitr | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/anchor-site/anchor | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/angel-project/framework | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/colegregory/animate.css | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/mukulio/MemoryBro | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
