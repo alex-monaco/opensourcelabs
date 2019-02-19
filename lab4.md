@@ -14,3 +14,6 @@ I agree with the authors claim. He shows clearly how they feel into a forking si
 
 ## Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses the GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source.
 ### Can you justify why such a license is chosen based on the history, goals and philosophy of the project? (Justification for ONE choice is enough, but be specific and make sure you provide references to articles or web resources).
+Android uses the apache license 2.0 because they do not want to publish the source code of android aside from linux. They would like to use android as non-free software for the purposes of making money. While they use linux as the kernel only which is open source and free.
+
+reference: https://www.gnu.org/philosophy/android-and-users-freedom.en.html
