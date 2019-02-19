@@ -17,3 +17,22 @@ I agree with the authors claim. He shows clearly how they feel into a forking si
 Android uses the apache license 2.0 because they do not want to publish the source code of android aside from linux. They would like to use android as non-free software for the purposes of making money. While they use linux as the kernel only which is open source and free.
 
 Reference: https://www.gnu.org/philosophy/android-and-users-freedom.en.html
+
+## Think of an example project for your Table. Pick a license (as a group) using the LICENSE chooser by Github.
+Open Source SIS 
+License: MIT License
+
+## Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use tldrlegal.
+The GPL license is the one that is best for open source software. It requires install instructions and for all changes to be stated. It also requires the license still be attached with dynamically linked libraries.
+
+The LPGL license is best for a company. This is because it requires only statically linked libraries to continue using the license whcih allows companies more freedom to use open source software in there work.
+
+The Apache license is best for a developer. This is because it uses a warranty on the software and prohibits the use of trademarks. 
+
+## Create a repository and choose a license.
+https://github.com/alex-monaco/lab4-licenserepo
+
+## Write five sentences about choosing a project to work on in this course, who will be users/customers of such a project, and what license you would choose.
+
+
+A project I would like to pursue for this course is an open source NPM package for programming Uniden brand RF scanners via serial protocols. The users of this package would be other developers. They would be able to use the package to write software to interface with the scanners. The software would allow them to focus on the interface itself rather than the serial protocol underneath. We will likely use the MIT License.
