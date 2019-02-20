@@ -8,6 +8,46 @@ Alexander Monaco
 
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step1-results.png)
 
+
+### Step 2
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step2-code.png)
+
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step2-results.png)
+
+
+### Step 3
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step3-code.png)
+
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step3-results.png)
+
+
+### Step 4
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-code.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-code-mathfunctions.png)
+
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-results1.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-results2.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-results3.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-results4.png)
+
+
+### Step 5
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-code.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-code-mathfunctions.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-code-sqrt.png)
+
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-results1.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-results2.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-results3.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-results4.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-results5.png)
+
+
+
+
+
+
+
 ## Part 2
 
 ### My Makefile
