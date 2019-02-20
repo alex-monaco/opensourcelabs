@@ -3,6 +3,10 @@ Alexander Monaco
 
 ## Part 1
 
+### Step 1
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step1-code.png)
+
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step1-results.png)
 
 ## Part 2
 
