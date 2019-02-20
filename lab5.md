@@ -304,6 +304,7 @@ cmake_check_build_system:
 
 ### Sizes
 static_block = 8784
+
 dynamic_block = 8600
 
 
