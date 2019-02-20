@@ -6,9 +6,41 @@ Alexander Monaco
 
 ## Part 2
 
-insert make file
+### My Makefile
+```
+all: static_block dynamic_block
+clean:
+	rm *.o *.so dynamic_block *.a static_block
+dynamic_block: program.o lib_shared.so
+	cc program.o lib_shared.so -o dynamic_block -Wl,-rpath='$$ORIGIN'
+static_block: program.o lib_static.a
+	cc program.o lib_static.a -o static_block
+program.o: program.c
+	cc -c program.c -o program.o
+lib_shared.so: block.o
+	cc -shared -o lib_shared.so block.o
+lib_static.a: block.o
+	ar qc lib_static.a block.o
+block.o: source/block.c
+	cc -fPIC -c source/block.c -o block.o
+```
 
-insert cmake file
+
+### CMakeLists.txt
+```
+cmake_minimum_required(VERSION 3.3)
+project(static_dynamic)
+
+add_library(lib_static STATIC source/block.c)
+add_library(lib_shared SHARED source/block.c)
+
+add_executable(static_block program.c)
+add_executable(dynamic_block program.c)
+
+target_link_libraries(static_block lib_static)
+target_link_libraries(dynamic_block lib_shared)
+```
+
 
 ### Makefile created by cmake
 ```
