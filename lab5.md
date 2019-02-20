@@ -300,3 +300,90 @@ cmake_check_build_system:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 ```
+
+
+### Sizes
+static_block = 8784
+dynamic_block = 8600
+
+
+### Results from my Makefile
+```
+parallels@parallels-vm:~/Documents/Lab-Example$ ./static_block 
+d y n a m i c   o r   s t a t i c 
+y n a m i c   o r   s t a t i c d 
+n a m i c   o r   s t a t i c d y 
+a m i c   o r   s t a t i c d y n 
+m i c   o r   s t a t i c d y n a 
+i c   o r   s t a t i c d y n a m 
+c   o r   s t a t i c d y n a m i 
+  o r   s t a t i c d y n a m i c 
+o r   s t a t i c d y n a m i c   
+r   s t a t i c d y n a m i c   o 
+  s t a t i c d y n a m i c   o r 
+s t a t i c d y n a m i c   o r   
+t a t i c d y n a m i c   o r   s 
+a t i c d y n a m i c   o r   s t 
+t i c d y n a m i c   o r   s t a 
+i c d y n a m i c   o r   s t a t 
+c d y n a m i c   o r   s t a t i 
+parallels@parallels-vm:~/Documents/Lab-Example$ ./dynamic_block 
+d y n a m i c   o r   s t a t i c 
+y n a m i c   o r   s t a t i c d 
+n a m i c   o r   s t a t i c d y 
+a m i c   o r   s t a t i c d y n 
+m i c   o r   s t a t i c d y n a 
+i c   o r   s t a t i c d y n a m 
+c   o r   s t a t i c d y n a m i 
+  o r   s t a t i c d y n a m i c 
+o r   s t a t i c d y n a m i c   
+r   s t a t i c d y n a m i c   o 
+  s t a t i c d y n a m i c   o r 
+s t a t i c d y n a m i c   o r   
+t a t i c d y n a m i c   o r   s 
+a t i c d y n a m i c   o r   s t 
+t i c d y n a m i c   o r   s t a 
+i c d y n a m i c   o r   s t a t 
+c d y n a m i c   o r   s t a t i 
+```
+
+
+### Results from cmake
+```
+parallels@parallels-vm:~/Documents/Lab-Example2$ ./static_block 
+d y n a m i c   o r   s t a t i c 
+y n a m i c   o r   s t a t i c d 
+n a m i c   o r   s t a t i c d y 
+a m i c   o r   s t a t i c d y n 
+m i c   o r   s t a t i c d y n a 
+i c   o r   s t a t i c d y n a m 
+c   o r   s t a t i c d y n a m i 
+  o r   s t a t i c d y n a m i c 
+o r   s t a t i c d y n a m i c   
+r   s t a t i c d y n a m i c   o 
+  s t a t i c d y n a m i c   o r 
+s t a t i c d y n a m i c   o r   
+t a t i c d y n a m i c   o r   s 
+a t i c d y n a m i c   o r   s t 
+t i c d y n a m i c   o r   s t a 
+i c d y n a m i c   o r   s t a t 
+c d y n a m i c   o r   s t a t i 
+parallels@parallels-vm:~/Documents/Lab-Example2$ ./dynamic_block 
+d y n a m i c   o r   s t a t i c 
+y n a m i c   o r   s t a t i c d 
+n a m i c   o r   s t a t i c d y 
+a m i c   o r   s t a t i c d y n 
+m i c   o r   s t a t i c d y n a 
+i c   o r   s t a t i c d y n a m 
+c   o r   s t a t i c d y n a m i 
+  o r   s t a t i c d y n a m i c 
+o r   s t a t i c d y n a m i c   
+r   s t a t i c d y n a m i c   o 
+  s t a t i c d y n a m i c   o r 
+s t a t i c d y n a m i c   o r   
+t a t i c d y n a m i c   o r   s 
+a t i c d y n a m i c   o r   s t 
+t i c d y n a m i c   o r   s t a 
+i c d y n a m i c   o r   s t a t 
+c d y n a m i c   o r   s t a t i 
+```
