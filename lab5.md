@@ -23,6 +23,7 @@ Alexander Monaco
 
 ### Step 4
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-code.png)
+
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-code-mathfunctions.png)
 
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step4-results1.png)
@@ -33,8 +34,8 @@ Alexander Monaco
 
 ### Step 5
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-code.png)
+
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-code-mathfunctions.png)
-![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-code-sqrt.png)
 
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-results1.png)
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab5/lab5-part1/step5-results2.png)
