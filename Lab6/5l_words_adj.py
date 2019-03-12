@@ -45,7 +45,7 @@ def generate_graph(words):
             left, c, right = word[0:i], word[i], word[i + 1:]
             j = lookup[c]  # lowercase.index(c)
             for cc in lowercase[j + 1:]:
-                adj = list(map("".join, permutations((left + cc + right))))
+                adj = map("".join, permutations((left + cc + right)))
                 for q in adj:
                     yield q
 
