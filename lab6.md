@@ -10,7 +10,8 @@ Alexander Monaco
 
 ## Code for the four letter solution
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words4code.png)
-[Link to full code](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/4l_words.py)
+
+[Link to my full code for the 4 letter solution](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/4l_words.py)
 
 
 ## Results for the 2 four letter pairs
@@ -18,7 +19,9 @@ Alexander Monaco
 
 ## Code for the unordered solution
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/wordsadjcode.png)
-[Link to full code](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/5l_words_adj.py)
+
+[Link to my full code for the unordered solution](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/5l_words_adj.py)
+
 
 ## Results for the 4 five letter pairs using the unordered implementation
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words5.adj.png)
