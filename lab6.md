@@ -5,11 +5,13 @@ Alexander Monaco
 
 
 ## Results for the 4 five letter pairs
-![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words5.1.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words5.2.png)
 
 ## Code for the four letter solution
 
 ## Results for the 2 four letter pairs
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words4.png)
 
 ## Code for the unordered solution
 
