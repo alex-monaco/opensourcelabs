@@ -9,6 +9,7 @@ Alexander Monaco
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/word5.2.png)
 
 ## Code for the four letter solution
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words4code.png)
 
 ## Results for the 2 four letter pairs
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words4.png)
