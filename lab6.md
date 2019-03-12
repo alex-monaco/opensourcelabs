@@ -1,6 +1,7 @@
 # Lab 6
-### Alexander Monaco
+Alexander Monaco
 ##
+
 
 
 ## Results for the 4 five letter pairs
