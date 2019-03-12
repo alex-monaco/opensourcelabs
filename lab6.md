@@ -15,5 +15,7 @@ Alexander Monaco
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words4.png)
 
 ## Code for the unordered solution
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/wordsadjcode.png)
 
 ## Results for the 4 five letter pairs using the unordered implementation
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab6/words5.adj.png)
