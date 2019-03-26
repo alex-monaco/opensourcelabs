@@ -13,7 +13,7 @@ Alexander Monaco
 
 ## Checkpoint 3
 ![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab8/checkpoint3.1.png)
-![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab8/checkpoint3.2.png)
+![alt text](https://github.com/alex-monaco/opensourcelabs/blob/master/Lab8/checkpoint3.png)
 
 
 ## Checkpoint 4
